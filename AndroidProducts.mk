@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aicp_sanders.mk
+	$(LOCAL_DIR)/aosp_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
-	aicp_sanders-userdebug \
-        aicp_sanders-userdebug \
-        aicp_sanders-eng
+	aosp_sanders-userdebug \
+        aosp_sanders-user \
+        aosp_sanders-eng
