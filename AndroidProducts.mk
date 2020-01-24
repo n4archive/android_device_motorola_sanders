@@ -14,9 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aosp_sanders.mk
+	$(LOCAL_DIR)/havoc_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
-	aosp_sanders-userdebug \
-        aosp_sanders-user \
-        aosp_sanders-eng
+	havoc_sanders-userdebug
