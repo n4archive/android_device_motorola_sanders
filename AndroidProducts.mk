@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aosp_sanders.mk
+	$(LOCAL_DIR)/pixys_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
-	aosp_sanders-userdebug \
-        aosp_sanders-user \
-        aosp_sanders-eng
+	pixys_sanders-userdebug \
+        pixys_sanders-user \
+        pixys_sanders-eng
