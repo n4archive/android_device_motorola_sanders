@@ -14,7 +14,6 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-<<<<<<< HEAD
 	$(LOCAL_DIR)/havoc_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
