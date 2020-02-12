@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/havoc_sanders.mk
+	$(LOCAL_DIR)/lineage_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
-	havoc_sanders-userdebug
+	lineage_sanders-userdebug
